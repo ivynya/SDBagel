@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋
+[![https://maintained.cc/SDBagel/SDBagel/2](https://maintained.cc/SDBagel/SDBagel/2)](https://maintained.cc/SDBagel/SDBagel/2/redirect)
 
-<!--
-**SDBagel/SDBagel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kyle, an aspiring software developer who loves all sorts of tech. I love designing exceptional experiences and putting great projects in front of people, and I'm learning something new every day.
 
-Here are some ideas to get you started:
+- Consider checking out my website, [sdbagel.com](https://sdbagel.com).
+- Check out [maintained.cc](https://maintained.cc) - update your badges with ease and powerful tools. This README uses it!
+- Or, take a peek at my educational full-stack web development blog, [Integration Testing](https://sdbagel.com/integration-testing).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Wisdom Duck
+[![https://maintained.cc/SDBagel/SDBagel/3](https://maintained.cc/SDBagel/SDBagel/3)](https://wisdomduck.sdbagel.com)
+
+### Contact me!
+[![https://maintained.cc/SDBagel/SDBagel/5](https://maintained.cc/SDBagel/SDBagel/5)](https://sdbagel.com)
+[![https://maintained.cc/SDBagel/SDBagel/4](https://maintained.cc/SDBagel/SDBagel/4)](https://linkedin.com/in/sdbagel)
