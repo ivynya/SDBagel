@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![https://maintained.cc/SDBagel/SDBagel/2](https://maintained.cc/SDBagel/SDBagel/2)](https://maintained.cc/SDBagel/SDBagel/2/redirect) [![https://maintained.cc/SDBagel/SDBagel/3](https://maintained.cc/SDBagel/SDBagel/3)](https://wisdomduck.sdbagel.com)
+[![https://maintained.cc/SDBagel/SDBagel/2](https://maintained.cc/SDBagel/SDBagel/2)](https://maintained.cc/SDBagel/SDBagel/2/redirect) [![https://maintained.cc/SDBagel/SDBagel/3](https://maintained.cc/SDBagel/SDBagel/3)](https://wisdomduck.sdbagel.com?re=github.sdbagel)
 
 I'm Kyle, an aspiring frontend and UX designer working with a variety of technologies.
 
