@@ -3,10 +3,10 @@
 
 I'm a frontend and UX designer working with a variety of technologies.
 
-- Check out my website, [sdbagel.com](https://sdbagel.com).
+- Check out my website, [sdbagel.com](https://ivy.direct/hi).
 - Or [maintained.cc](https://maintained.cc): update your repository badges with ease and powerful tools. This README uses it!
-- Take a peek at my educational full-stack web development blog, [Integration Testing](https://sdbagel.com/integration-testing).
+- I also have an educational full-stack web development blog, [Integration Testing](https://sdbagel.com/integration-testing).
 
 ### Contact
-[![https://maintained.cc/SDBagel/SDBagel/5](https://maintained.cc/SDBagel/SDBagel/5)](https://sdbagel.com)
-[![https://maintained.cc/SDBagel/SDBagel/4](https://maintained.cc/SDBagel/SDBagel/4)](https://linkedin.com/in/sdbagel)
+[![https://maintained.cc/SDBagel/SDBagel/5](https://maintained.cc/SDBagel/SDBagel/5)](https://ivy.direct/hi)
+[![https://maintained.cc/SDBagel/SDBagel/4](https://maintained.cc/SDBagel/SDBagel/4)](https://ivy.direct/linkedin)
