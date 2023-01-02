@@ -1,1 +1,1 @@
-[![Ivy](https://ivy.direct/viewcount-banner)](https://ivy.direct/hi)
+[![Ivy](./Ivy.svg)](https://ivy.direct/hi)
